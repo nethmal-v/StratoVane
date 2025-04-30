@@ -6,5 +6,5 @@
         Design of the blade - Choosing the best blade configuration from existing designs/Designing a new blade which harnesses maximum energy
         Design of the stator - How many vanes, gap between vanes, radius of the stator, Vane density, material
         Design of the structure - How the supporting bars should be, Material, bearings etc.
-02)  
+02) dddd 
   
