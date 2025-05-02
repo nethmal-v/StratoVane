@@ -1,4 +1,4 @@
-# TurboMech
+# StratoVane
 # Group members: 
 E/20/238 - MAHAPELI M.G.M.U. MR <br>
 E/20/411 - VINJITHA K.L.N. MR <br>
