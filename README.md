@@ -4,6 +4,8 @@ E/20/238 - MAHAPELI M.G.M.U. MR <br>
 E/20/411 - VINJITHA K.L.N. MR <br>
 E/20/438 - WICKRAMASEKARA D.S.P. MR <br>
 E/20/448 - WIJETHUNGE P.M.H.S. MISS <br>
+# advisor:
+Ms. L.U. Bakmideniya <br>
 # project ideas
 **Project 1: Enhancing VAWT Efficiency Using Guided Vanes**<br>
    
@@ -68,5 +70,6 @@ Incorporate passive debris filters or grates upstream of the turbine. <br>
 Design easy-maintenance cages to protect blades.<br>
 3. Selection of suitable Turbine Design with Cage<br>
 Choose a robust rotor with curved blades, lift type blades. <br>
-Optimize cage design to streamline flow and ensure safety for aquatic life
+Optimize cage design to streamline flow and ensure safety for aquatic life <br>
+
   
