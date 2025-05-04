@@ -72,4 +72,6 @@ Design easy-maintenance cages to protect blades.<br>
 Choose a robust rotor with curved blades, lift type blades. <br>
 Optimize cage design to streamline flow and ensure safety for aquatic life <br>
 
-  
+
+# Project Report
+https://docs.google.com/document/d/1h2xB-48reGrMHb_7LsvE_dc7G7eMofepsa3bVe_OkkU/edit?usp=sharing
